@@ -1,0 +1,1238 @@
+{
+ "version": "2026-10-06",
+ "classifiers": [
+  {
+   "number": "99-08",
+   "name": "Melody Line",
+   "rounds": 12,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 9.1872,
+    "lo": 9.199,
+    "opn": 10.248,
+    "ltd": 8.9179,
+    "pcc": 10.2665,
+    "prod": 8.6815,
+    "ss": 8.8712,
+    "l10": 9.5464,
+    "rev": 6.9174
+   }
+  },
+  {
+   "number": "99-10",
+   "name": "Times Two",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 9.5108,
+    "lo": 9.6792,
+    "opn": 10.7383,
+    "ltd": 9.464,
+    "pcc": 11.1087,
+    "prod": 9.6784,
+    "ss": 8.8809,
+    "l10": 10.2888,
+    "rev": 7.2673
+   }
+  },
+  {
+   "number": "99-11",
+   "name": "El Presidente",
+   "rounds": 12,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 10.3391,
+    "lo": 10.5956,
+    "opn": 12.1268,
+    "ltd": 10.5552,
+    "pcc": 12.6276,
+    "prod": 10.1008,
+    "ss": 9.9873,
+    "l10": 11.0962,
+    "rev": 7.7012
+   }
+  },
+  {
+   "number": "99-12",
+   "name": "Take Your Choice",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 8.8556,
+    "lo": 8.9675,
+    "opn": 10.327,
+    "ltd": 8.6208,
+    "pcc": 9.6315,
+    "prod": 8.2024,
+    "ss": 8.2333,
+    "l10": 9.3667,
+    "rev": 6.3698
+   }
+  },
+  {
+   "number": "99-13",
+   "name": "Quicky II",
+   "rounds": 24,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 7.8905,
+    "lo": 7.9572,
+    "opn": 9.1619,
+    "ltd": 8.1491,
+    "pcc": 11.446,
+    "prod": 7.8517,
+    "ss": 7.8627,
+    "l10": 8.3324,
+    "rev": 7.0364
+   }
+  },
+  {
+   "number": "99-19",
+   "name": "Paynes Pain",
+   "rounds": 12,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 6.2113,
+    "lo": 6.4275,
+    "opn": 6.822,
+    "ltd": 6.072,
+    "pcc": 5.6574,
+    "prod": 5.7621,
+    "ss": 5.6807,
+    "l10": 6.4806,
+    "rev": 4.2812
+   }
+  },
+  {
+   "number": "99-28",
+   "name": "Hillbillton Drill",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 9.7171,
+    "lo": 9.8941,
+    "opn": 11.0113,
+    "ltd": 9.6007,
+    "pcc": 11.2029,
+    "prod": 9.5264,
+    "ss": 9.2292,
+    "l10": 10.0163,
+    "rev": 7.281
+   }
+  },
+  {
+   "number": "99-42",
+   "name": "Fast n Furious",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 9.1863,
+    "lo": 9.6434,
+    "opn": 10.6028,
+    "ltd": 8.8533,
+    "pcc": 9.7524,
+    "prod": 8.7342,
+    "ss": 8.5122,
+    "l10": 9.6711,
+    "rev": 6.6855
+   }
+  },
+  {
+   "number": "99-46",
+   "name": "Close Quarter Standards",
+   "rounds": 24,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 8.385,
+    "lo": 8.5262,
+    "opn": 9.5514,
+    "ltd": 8.7102,
+    "pcc": 12.3707,
+    "prod": 8.344,
+    "ss": 8.5748,
+    "l10": 8.9105,
+    "rev": 7.094
+   }
+  },
+  {
+   "number": "99-53",
+   "name": "Triple Play",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 7.1774,
+    "lo": 7.3626,
+    "opn": 7.8809,
+    "ltd": 6.5956,
+    "pcc": 7.4067,
+    "prod": 6.6737,
+    "ss": 6.6368,
+    "l10": 7.4196,
+    "rev": 4.4796
+   }
+  },
+  {
+   "number": "99-57",
+   "name": "Bookouts Boogie",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 7.78,
+    "lo": 8.0864,
+    "opn": 8.2959,
+    "ltd": 6.5598,
+    "pcc": 8.4614,
+    "prod": 6.5202,
+    "ss": 6.1842,
+    "l10": 8.0205,
+    "rev": 5.1125
+   }
+  },
+  {
+   "number": "99-62",
+   "name": "Bang and Clang",
+   "rounds": 6,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 11.6369,
+    "lo": 12.1807,
+    "opn": 12.6035,
+    "ltd": 11.0471,
+    "pcc": 15.4212,
+    "prod": 10.9717,
+    "ss": 10.8877,
+    "l10": 11.8332,
+    "rev": 9.7967
+   }
+  },
+  {
+   "number": "03-03",
+   "name": "Take em Down",
+   "rounds": 11,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 8.2443,
+    "lo": 8.3794,
+    "opn": 9.1147,
+    "ltd": 7.7467,
+    "pcc": 8.7401,
+    "prod": 7.7559,
+    "ss": 7.5389,
+    "l10": 8.5421,
+    "rev": 6.0017
+   }
+  },
+  {
+   "number": "03-05",
+   "name": "Paper Poppers",
+   "rounds": 10,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 9.6596,
+    "lo": 9.6841,
+    "opn": 10.5139,
+    "ltd": 9.2086,
+    "pcc": 11.16,
+    "prod": 9.3031,
+    "ss": 9.1892,
+    "l10": 9.8134,
+    "rev": 7.3457
+   }
+  },
+  {
+   "number": "03-07",
+   "name": "Riverdale Standards",
+   "rounds": 20,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 6.6295,
+    "lo": 6.6295,
+    "opn": 7.3237,
+    "ltd": 6.6684,
+    "pcc": 8.8285,
+    "prod": 6.5169,
+    "ss": 6.5169,
+    "l10": 7.2918,
+    "rev": 5.3806
+   }
+  },
+  {
+   "number": "03-08",
+   "name": "Madness",
+   "rounds": 14,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 9.5578,
+    "lo": 9.5797,
+    "opn": 10.4963,
+    "ltd": 9.1769,
+    "pcc": 10.0547,
+    "prod": 8.9653,
+    "ss": 8.7761,
+    "l10": 9.7223,
+    "rev": 7.5661
+   }
+  },
+  {
+   "number": "03-09",
+   "name": "On the Move",
+   "rounds": 16,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 10.3664,
+    "lo": 10.6062,
+    "opn": 11.7681,
+    "ltd": 9.8835,
+    "pcc": 12.0917,
+    "prod": 9.4383,
+    "ss": 9.579,
+    "l10": 10.991,
+    "rev": 8.4954
+   }
+  },
+  {
+   "number": "03-18",
+   "name": "High Standards",
+   "rounds": 24,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 7.591,
+    "lo": 7.591,
+    "opn": 8.6641,
+    "ltd": 7.2815,
+    "pcc": 10.6184,
+    "prod": 6.9113,
+    "ss": 7.1757,
+    "l10": 8.4755,
+    "rev": 5.8793
+   }
+  },
+  {
+   "number": "06-03",
+   "name": "Can You Count",
+   "rounds": 20,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 14.8293,
+    "lo": 15.1357,
+    "opn": 15.9747,
+    "ltd": 14.7247,
+    "pcc": 16.2169,
+    "prod": 14.6823,
+    "ss": 14.0966,
+    "l10": 14.9134,
+    "rev": 10.675
+   }
+  },
+  {
+   "number": "06-04",
+   "name": "Fluffy's Revenge 1",
+   "rounds": 8,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 13.918,
+    "lo": 14.2579,
+    "opn": 15.0386,
+    "ltd": 13.4818,
+    "pcc": 16.5898,
+    "prod": 13.2922,
+    "ss": 13.0752,
+    "l10": 14.2019,
+    "rev": 11.3275
+   }
+  },
+  {
+   "number": "06-05",
+   "name": "Fluffy's Revenge 2",
+   "rounds": 8,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 12.3899,
+    "lo": 12.511,
+    "opn": 13.8309,
+    "ltd": 11.9768,
+    "pcc": 16.7873,
+    "prod": 11.8463,
+    "ss": 11.7664,
+    "l10": 12.8348,
+    "rev": 9.9516
+   }
+  },
+  {
+   "number": "06-10",
+   "name": "Steely Speed VII",
+   "rounds": 6,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 9.5992,
+    "lo": 9.8694,
+    "opn": 9.9858,
+    "ltd": 8.2886,
+    "pcc": 12.04,
+    "prod": 8.484,
+    "ss": 8.0498,
+    "l10": 9.6675,
+    "rev": 8.0047
+   }
+  },
+  {
+   "number": "08-02",
+   "name": "Steeler Standards",
+   "rounds": 20,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 6.4628,
+    "lo": 6.4628,
+    "opn": 7.778,
+    "ltd": 6.4844,
+    "pcc": 8.3512,
+    "prod": 6.5373,
+    "ss": 6.6033,
+    "l10": 6.6747,
+    "rev": 5.183
+   }
+  },
+  {
+   "number": "08-03",
+   "name": "Six",
+   "rounds": 6,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 10.6658,
+    "lo": 10.7857,
+    "opn": 11.4774,
+    "ltd": 10.0709,
+    "pcc": 14.2458,
+    "prod": 10.0864,
+    "ss": 9.9296,
+    "l10": 10.9225,
+    "rev": 8.9229
+   }
+  },
+  {
+   "number": "09-10",
+   "name": "Life's Little Problems",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 11.5703,
+    "lo": 11.8718,
+    "opn": 13.2004,
+    "ltd": 11.6928,
+    "pcc": 12.1018,
+    "prod": 11.688,
+    "ss": 9.8766,
+    "l10": 10.1723,
+    "rev": 7.5746
+   }
+  },
+  {
+   "number": "13-02",
+   "name": "Down The Middle",
+   "rounds": 8,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 12.9227,
+    "lo": 13.1483,
+    "opn": 13.7867,
+    "ltd": 11.2734,
+    "pcc": 16.5978,
+    "prod": 11.5497,
+    "ss": 11.0609,
+    "l10": 13.0685,
+    "rev": 11.0759
+   }
+  },
+  {
+   "number": "13-04",
+   "name": "The Roscoe Rattle",
+   "rounds": 18,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 12.1657,
+    "lo": 12.1661,
+    "opn": 13.7116,
+    "ltd": 12.1329,
+    "pcc": 16.3487,
+    "prod": 11.7612,
+    "ss": 11.8149,
+    "l10": 12.6022,
+    "rev": 9.6401
+   }
+  },
+  {
+   "number": "13-05",
+   "name": "Tick Tock",
+   "rounds": 16,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 10.4226,
+    "lo": 11.0382,
+    "opn": 11.9573,
+    "ltd": 10.5496,
+    "pcc": 10.7925,
+    "prod": 10.0557,
+    "ss": 9.7767,
+    "l10": 11.0025,
+    "rev": 7.8119
+   }
+  },
+  {
+   "number": "13-06",
+   "name": "Too Close For Comfort",
+   "rounds": 10,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 8.4887,
+    "lo": 8.7345,
+    "opn": 9.7524,
+    "ltd": 8.6031,
+    "pcc": 8.8563,
+    "prod": 8.2698,
+    "ss": 8.4155,
+    "l10": 8.9635,
+    "rev": 6.5666
+   }
+  },
+  {
+   "number": "18-03",
+   "name": "We Play Games",
+   "rounds": 24,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 7.1931,
+    "lo": 7.1931,
+    "opn": 8.1979,
+    "ltd": 7.5523,
+    "pcc": 8.7976,
+    "prod": 7.2358,
+    "ss": 7.5886,
+    "l10": 7.5467,
+    "rev": 6.018
+   }
+  },
+  {
+   "number": "18-05",
+   "name": "No Need To Believe In Either Side",
+   "rounds": 16,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 9.3661,
+    "lo": 9.3661,
+    "opn": 10.5996,
+    "ltd": 8.6724,
+    "pcc": 10.8634,
+    "prod": 8.6994,
+    "ss": 8.7281,
+    "l10": 9.5366,
+    "rev": 7.0033
+   }
+  },
+  {
+   "number": "18-07",
+   "name": "Someone Is Always Willing To Pay",
+   "rounds": 8,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 8.4808,
+    "lo": 8.6889,
+    "opn": 9.5927,
+    "ltd": 8.4875,
+    "pcc": 9.7127,
+    "prod": 8.406,
+    "ss": 8.1307,
+    "l10": 8.7671,
+    "rev": 6.2186
+   }
+  },
+  {
+   "number": "18-08",
+   "name": "The Condor",
+   "rounds": 16,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 6.1239,
+    "lo": 6.1239,
+    "opn": 6.6239,
+    "ltd": 5.9765,
+    "pcc": 6.6349,
+    "prod": 5.8198,
+    "ss": 5.9229,
+    "l10": 6.3103,
+    "rev": 5.0887
+   }
+  },
+  {
+   "number": "18-09",
+   "name": "I Miss That Kind of Clarity",
+   "rounds": 24,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 9.8081,
+    "lo": 9.8631,
+    "opn": 10.8722,
+    "ltd": 9.9868,
+    "pcc": 10.4337,
+    "prod": 9.7043,
+    "ss": 9.8039,
+    "l10": 10.1265,
+    "rev": 7.9523
+   }
+  },
+  {
+   "number": "19-01",
+   "name": "HI-Jinx",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 9.4976,
+    "lo": 9.8182,
+    "opn": 11.0015,
+    "ltd": 9.3088,
+    "pcc": 10.9518,
+    "prod": 8.7615,
+    "ss": 8.8474,
+    "l10": 10.1346,
+    "rev": 7.3639
+   }
+  },
+  {
+   "number": "19-02",
+   "name": "HI-Way Robbery",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 9.7586,
+    "lo": 9.7586,
+    "opn": 10.5263,
+    "ltd": 9.2994,
+    "pcc": 10.5852,
+    "prod": 8.8605,
+    "ss": 8.5759,
+    "l10": 8.6107,
+    "rev": 6.8682
+   }
+  },
+  {
+   "number": "19-04",
+   "name": "HI Cost of Living",
+   "rounds": 14,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 9.8287,
+    "lo": 9.9605,
+    "opn": 11.2291,
+    "ltd": 9.7688,
+    "pcc": 10.4266,
+    "prod": 9.3669,
+    "ss": 9.4492,
+    "l10": 10.2907,
+    "rev": 7.4355
+   }
+  },
+  {
+   "number": "20-01",
+   "name": "Wish You Were Here",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 8.3266,
+    "lo": 8.3384,
+    "opn": 9.1465,
+    "ltd": 8.1732,
+    "pcc": 8.6602,
+    "prod": 7.9009,
+    "ss": 6.9487,
+    "l10": 7.6671,
+    "rev": 5.7448
+   }
+  },
+  {
+   "number": "20-02",
+   "name": "Deja Vu",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 11.5162,
+    "lo": 11.7386,
+    "opn": 12.9051,
+    "ltd": 11.4445,
+    "pcc": 12.6515,
+    "prod": 10.8952,
+    "ss": 10.147,
+    "l10": 10.6418,
+    "rev": 8.1171
+   }
+  },
+  {
+   "number": "20-03",
+   "name": "Deja Vu All Over Again",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 10.2338,
+    "lo": 10.2338,
+    "opn": 11.1878,
+    "ltd": 9.8941,
+    "pcc": 10.992,
+    "prod": 9.211,
+    "ss": 8.2215,
+    "l10": 9.0407,
+    "rev": 6.6615
+   }
+  },
+  {
+   "number": "21-01",
+   "name": "8 x 3 Trigger Freeze",
+   "rounds": 24,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 14.8079,
+    "lo": 14.9063,
+    "opn": 17.443,
+    "ltd": 14.2892,
+    "pcc": 16.6464,
+    "prod": 13.2046,
+    "ss": 13.3487,
+    "l10": 13.2788,
+    "rev": 10.436
+   }
+  },
+  {
+   "number": "22-01",
+   "name": "Righty Tighty",
+   "rounds": 18,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 8.4433,
+    "lo": 8.5411,
+    "opn": 9.3689,
+    "ltd": 8.1166,
+    "pcc": 9.8826,
+    "prod": 7.8822,
+    "ss": 8.0243,
+    "l10": 8.4431,
+    "rev": 6.66
+   }
+  },
+  {
+   "number": "22-02",
+   "name": "Lefty Loosey",
+   "rounds": 18,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 7.6202,
+    "lo": 7.6366,
+    "opn": 8.4795,
+    "ltd": 7.2761,
+    "pcc": 9.0787,
+    "prod": 7.2952,
+    "ss": 7.7577,
+    "l10": 7.7201,
+    "rev": 6.3608
+   }
+  },
+  {
+   "number": "22-04",
+   "name": "Calm Before the Storm",
+   "rounds": 16,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 10.4061,
+    "lo": 10.8522,
+    "opn": 12.0442,
+    "ltd": 10.2002,
+    "pcc": 11.4915,
+    "prod": 9.6929,
+    "ss": 10.1448,
+    "l10": 11.0278,
+    "rev": 8.2006
+   }
+  },
+  {
+   "number": "22-06",
+   "name": "Blues Don't Care",
+   "rounds": 7,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 12.3638,
+    "lo": 12.3901,
+    "opn": 13.4761,
+    "ltd": 12.2087,
+    "pcc": 15.8662,
+    "prod": 11.7798,
+    "ss": 11.5577,
+    "l10": 12.7287,
+    "rev": 9.8151
+   }
+  },
+  {
+   "number": "22-07",
+   "name": "Cross Road Blues",
+   "rounds": 14,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 9.0749,
+    "lo": 9.1462,
+    "opn": 10.1495,
+    "ltd": 9.0338,
+    "pcc": 9.5938,
+    "prod": 8.539,
+    "ss": 7.8134,
+    "l10": 9.5471,
+    "rev": 6.9661
+   }
+  },
+  {
+   "number": "23-01",
+   "name": "THS Short Course",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 10.487,
+    "lo": 10.487,
+    "opn": 11.2515,
+    "ltd": 9.706,
+    "pcc": 10.7982,
+    "prod": 9.4988,
+    "ss": 8.5915,
+    "l10": 9.9335,
+    "rev": 7.1461
+   }
+  },
+  {
+   "number": "23-02",
+   "name": "This could be the Greatest Night of Our Lives",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 10.747,
+    "lo": 10.747,
+    "opn": 11.6034,
+    "ltd": 10.3271,
+    "pcc": 11.8749,
+    "prod": 10.3769,
+    "ss": 10.1621,
+    "l10": 10.6016,
+    "rev": 8.6939
+   }
+  },
+  {
+   "number": "24-01",
+   "name": "Can you Strong and Weak Hand?",
+   "rounds": 24,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 10.8586,
+    "lo": 10.8972,
+    "opn": 11.6816,
+    "ltd": 10.8953,
+    "pcc": 11.7189,
+    "prod": 10.631,
+    "ss": 9.9424,
+    "l10": 11.2883,
+    "rev": 8.2044
+   }
+  },
+  {
+   "number": "24-02",
+   "name": "This is more better now",
+   "rounds": 18,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 9.6515,
+    "lo": 9.6515,
+    "opn": 10.5066,
+    "ltd": 8.7133,
+    "pcc": 10.1819,
+    "prod": 8.3501,
+    "ss": 7.6699,
+    "l10": 9.2084,
+    "rev": 6.759
+   }
+  },
+  {
+   "number": "24-04",
+   "name": "The Thrill of the Bill Drill",
+   "rounds": 18,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 9.4176,
+    "lo": 9.4176,
+    "opn": 10.2616,
+    "ltd": 9.1569,
+    "pcc": 11.52,
+    "prod": 9.5393,
+    "ss": 9.173,
+    "l10": 9.6207,
+    "rev": 7.4871
+   }
+  },
+  {
+   "number": "24-06",
+   "name": "Surely you can\u2019t be serious",
+   "rounds": 18,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 11.0953,
+    "lo": 11.0953,
+    "opn": 12.5441,
+    "ltd": 9.5424,
+    "pcc": 11.8618,
+    "prod": 8.5693,
+    "ss": 7.5102,
+    "l10": 11.4285,
+    "rev": 5.9393
+   }
+  },
+  {
+   "number": "24-08",
+   "name": "And now for something completely different",
+   "rounds": 24,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 10.6907,
+    "lo": 10.6907,
+    "opn": 13.5619,
+    "ltd": 9.4982,
+    "pcc": 13.0223,
+    "prod": 9.3193,
+    "ss": 8.8833,
+    "l10": 11.0776,
+    "rev": 6.7558
+   }
+  },
+  {
+   "number": "24-09",
+   "name": "Tres Cajas",
+   "rounds": 18,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 10.4636,
+    "lo": 10.4636,
+    "opn": 11.4304,
+    "ltd": 9.9065,
+    "pcc": 11.5656,
+    "prod": 9.3329,
+    "ss": 9.0835,
+    "l10": 11.0035,
+    "rev": 6.8147
+   }
+  },
+  {
+   "number": "25-01",
+   "name": "Return to Monke",
+   "rounds": 19,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 8.5128,
+    "lo": 8.5538,
+    "opn": 9.2812,
+    "ltd": 7.6527,
+    "pcc": 8.9521,
+    "prod": 7.3759,
+    "ss": 7.5419,
+    "l10": 8.7921,
+    "rev": 6.985
+   }
+  },
+  {
+   "number": "25-02",
+   "name": "Look at Me I Am the Captain Now",
+   "rounds": 10,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 11.0651,
+    "lo": 11.1723,
+    "opn": 12.4125,
+    "ltd": 10.2152,
+    "pcc": 12.5472,
+    "prod": 9.6781,
+    "ss": 10.0004,
+    "l10": 11.5584,
+    "rev": 7.7845
+   }
+  },
+  {
+   "number": "25-03",
+   "name": "Let Him Cook",
+   "rounds": 10,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 8.9237,
+    "lo": 8.9444,
+    "opn": 9.8129,
+    "ltd": 8.7256,
+    "pcc": 9.6401,
+    "prod": 8.2964,
+    "ss": 8.5539,
+    "l10": 9.3875,
+    "rev": 7.6029
+   }
+  },
+  {
+   "number": "25-04",
+   "name": "We Did Our Homework",
+   "rounds": 10,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 11.0002,
+    "lo": 11.0666,
+    "opn": 11.9649,
+    "ltd": 10.3056,
+    "pcc": 12.0474,
+    "prod": 9.8695,
+    "ss": 10.1311,
+    "l10": 11.5434,
+    "rev": 7.8174
+   }
+  },
+  {
+   "number": "25-05",
+   "name": "Its All Porta the Plan",
+   "rounds": 16,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 10.2233,
+    "lo": 10.2836,
+    "opn": 11.1036,
+    "ltd": 9.0106,
+    "pcc": 11.3185,
+    "prod": 8.6692,
+    "ss": 8.8741,
+    "l10": 10.5587,
+    "rev": 8.4736
+   }
+  },
+  {
+   "number": "25-06",
+   "name": "They All Count",
+   "rounds": 14,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 10.4033,
+    "lo": 10.4876,
+    "opn": 11.478,
+    "ltd": 10.2289,
+    "pcc": 11.3411,
+    "prod": 9.7193,
+    "ss": 10.025,
+    "l10": 10.8747,
+    "rev": 8.5997
+   }
+  },
+  {
+   "number": "25-07",
+   "name": "Absolute Cinema",
+   "rounds": 14,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 11.0451,
+    "lo": 11.1059,
+    "opn": 11.6012,
+    "ltd": 10.1338,
+    "pcc": 12.1574,
+    "prod": 9.7699,
+    "ss": 9.9882,
+    "l10": 11.4152,
+    "rev": 7.6885
+   }
+  },
+  {
+   "number": "25-08",
+   "name": "We Lost Hero or Zero",
+   "rounds": 10,
+   "scoring": "Comstock",
+   "hhf": {
+    "co": 10.2897,
+    "lo": 10.3451,
+    "opn": 11.2412,
+    "ltd": 9.8933,
+    "pcc": 11.9314,
+    "prod": 9.3338,
+    "ss": 9.6695,
+    "l10": 10.7367,
+    "rev": 8.5292
+   }
+  },
+  {
+   "number": "25-09",
+   "name": "Descent Into Madness",
+   "rounds": 12,
+   "scoring": "Virginia",
+   "hhf": {
+    "co": 7.8967,
+    "lo": 8.0341,
+    "opn": 9.0938,
+    "ltd": 7.4733,
+    "pcc": 10.0262,
+    "prod": 7.1025,
+    "ss": 7.325,
+    "l10": 8.1281,
+    "rev": 6.544
+   }
+  }
+ ],
+ "steelPeakTimes": {
+  "co": [
+   12.5,
+   9.75,
+   10,
+   13.75,
+   11,
+   12.75,
+   13,
+   9.75
+  ],
+  "lo": [
+   12.25,
+   9.5,
+   9.5,
+   13.5,
+   10.75,
+   12.25,
+   12.25,
+   9.5
+  ],
+  "ltd": [
+   12.5,
+   9.5,
+   9.5,
+   13.5,
+   10.5,
+   12.5,
+   12.5,
+   9.5
+  ],
+  "opn": [
+   11.25,
+   9.5,
+   8.5,
+   12.5,
+   10.5,
+   11.25,
+   11.5,
+   8.5
+  ],
+  "prod": [
+   13,
+   10,
+   10,
+   14,
+   11.5,
+   13,
+   13,
+   10
+  ],
+  "ss": [
+   13.25,
+   10.5,
+   10.25,
+   14.75,
+   11.75,
+   13.5,
+   13.5,
+   10.5
+  ],
+  "pcco": [
+   9.5,
+   7,
+   7,
+   11.25,
+   8.75,
+   9,
+   9.5,
+   7.5
+  ],
+  "pcci": [
+   10.75,
+   8.5,
+   7.75,
+   12.25,
+   9.5,
+   10.5,
+   11,
+   8
+  ],
+  "isr": [
+   13.5,
+   12,
+   10.5,
+   15.75,
+   13,
+   14.25,
+   14,
+   11
+  ],
+  "osr": [
+   12.25,
+   10.5,
+   10,
+   14.25,
+   12.75,
+   13.5,
+   12.75,
+   10.5
+  ],
+  "rfpo": [
+   8.75,
+   7.5,
+   7,
+   11.5,
+   8.5,
+   9.5,
+   10,
+   7.5
+  ],
+  "rfpi": [
+   10.5,
+   9,
+   8,
+   13,
+   9.25,
+   11,
+   11,
+   8.25
+  ],
+  "rfro": [
+   9.5,
+   7,
+   7,
+   10.75,
+   8.5,
+   9,
+   9,
+   7
+  ],
+  "rfri": [
+   9.75,
+   7.5,
+   7.5,
+   12,
+   9,
+   9.75,
+   10,
+   7.5
+  ],
+  "rro": [
+   9.75,
+   8.25,
+   7.75,
+   12.75,
+   9.5,
+   10.5,
+   11,
+   8.25
+  ],
+  "rri": [
+   11.5,
+   10,
+   9,
+   14.25,
+   10.25,
+   12,
+   12,
+   9
+  ]
+ }
+}
