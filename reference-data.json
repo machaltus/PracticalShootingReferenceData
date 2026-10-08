@@ -1,5 +1,5 @@
 {
- "version": "2026-10-06",
+ "version": "2026-10-08",
  "classifiers": [
   {
    "number": "99-08",
@@ -1070,6 +1070,81 @@
     "ss": 7.325,
     "l10": 8.1281,
     "rev": 6.544
+   }
+  },
+  {
+   "number": "26-01",
+   "name": "King Crab",
+   "rounds": 14,
+   "scoring": "Comstock",
+   "hhf": {
+    "opn": 10.1176,
+    "ltd": 8.184,
+    "lo": 9.3361,
+    "l10": 9.6837,
+    "prod": 7.8402,
+    "co": 9.3041,
+    "pcc": 10.5925
+   }
+  },
+  {
+   "number": "26-02",
+   "name": "Darwinism",
+   "rounds": 14,
+   "scoring": "Comstock",
+   "hhf": {
+    "opn": 8.5778,
+    "ltd": 7.0572,
+    "lo": 7.85,
+    "l10": 8.0786,
+    "prod": 6.7659,
+    "co": 7.8133,
+    "pcc": 7.9993
+   }
+  },
+  {
+   "number": "26-03",
+   "name": "Mike Who",
+   "rounds": 10,
+   "scoring": "Comstock",
+   "hhf": {
+    "opn": 9.432,
+    "ltd": 8.6549,
+    "lo": 8.9778,
+    "l10": 9.2201,
+    "prod": 8.2375,
+    "co": 8.9637,
+    "pcc": 9.7258
+   }
+  },
+  {
+   "number": "26-04",
+   "name": "Uprange Seriously",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "opn": 8.8159,
+    "ltd": 7.1648,
+    "lo": 8.1226,
+    "l10": 8.413,
+    "prod": 6.8009,
+    "co": 8.0958,
+    "pcc": 8.3038
+   }
+  },
+  {
+   "number": "26-05",
+   "name": "Downrange Obviously",
+   "rounds": 12,
+   "scoring": "Comstock",
+   "hhf": {
+    "opn": 9.762,
+    "ltd": 7.6909,
+    "lo": 8.6415,
+    "l10": 9.0512,
+    "prod": 7.2909,
+    "co": 8.6347,
+    "pcc": 9.689
    }
   }
  ],
